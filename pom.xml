@@ -38,7 +38,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>muhammed.App</mainClass>
+            <mainClass>edu.bim207.App</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>
